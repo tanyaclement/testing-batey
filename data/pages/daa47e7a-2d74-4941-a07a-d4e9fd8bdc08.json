@@ -1,0 +1,14 @@
+{
+  "content": [],
+  "created_at": "2026-01-19T21:09:11.092Z",
+  "created_by": "tanyaclement",
+  "title": "testing",
+  "slug": "testing",
+  "updated_at": "2026-01-19T21:09:11.092Z",
+  "updated_by": "tanyaclement",
+  "autogenerate": {
+    "enabled": true,
+    "type": "event",
+    "type_id": "163dc274-500c-4dbc-9814-34220ec1ed23"
+  }
+}
