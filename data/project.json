@@ -845,10 +845,6 @@
           "category": "speaker"
         },
         {
-          "tag": "N'Zambi",
-          "category": "speaker"
-        },
-        {
           "tag": "Junte Loiceno",
           "category": "speaker"
         },
@@ -1235,7 +1231,7 @@
       ]
     },
     "created_at": "2026-01-19T20:02:08.601Z",
-    "updated_at": "2026-01-19T20:56:51.896Z",
+    "updated_at": "2026-01-19T20:57:41.440Z",
     "generate_pages_site": true
   },
   "annotations": {},
